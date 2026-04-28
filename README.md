@@ -89,3 +89,21 @@ void loop() {
     Blynk.virtualWrite(V0, 0);   
   }
 }
+
+## 6. ⚙️ Working :
+
+- 🔴 When motion is detected, the PIR sensor sends a HIGH signal.
+- 📟 The ESP32 reads this signal and:
+  - 📱 Sends a push notification to the Blynk app.
+- 💡 When no motion is detected, the LED turns off.
+
+## 10. 📱 Applications:
+
+- 🏠 Home and Office Security Systems
+- 💡 Automatic Lighting Control
+- 👶🐾 Pet or Baby Monitoring Systems
+- ⚡ Energy-saving systems in buildings
+
+## 11. ✅ Conclusion:
+
+This project demonstrates a simple yet effective way to build an IoT-enabled motion detection system using a PIR sensor and ESP32, with real-time mobile notifications through the Blynk platform.
