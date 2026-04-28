@@ -52,8 +52,8 @@ This project implements a **real-time motion detection system** using an ESP32 m
 ## 💻 Arduino Code
 
 ```cpp
-// Name: Rimsha Shakeel
-// Roll no: fa24b1-cs-002
+// Name: Zunaira Ahmed
+// Roll no: fa24b1-cs-030
 
 #define BLYNK_TEMPLATE_ID "Your_Template_ID"
 #define BLYNK_TEMPLATE_NAME "Motion Detector"
