@@ -1,6 +1,6 @@
 ## 👩‍💻 Author
 **Zunaira Ahmed**  
-*Computer Science Student | Assembly Language Enthusiast*
+*Computer Science Student*
 
 # 🚀 IoT Motion Detection System using ESP32 & PIR Sensor
 
