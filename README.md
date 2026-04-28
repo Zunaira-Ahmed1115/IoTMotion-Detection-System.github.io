@@ -49,7 +49,7 @@ This project implements a **real-time motion detection system** using an ESP32 m
 
 ---
 
-## 6. ⚙️ Working :
+## ⚙️ Working :
 
 - 🔴 When motion is detected, the PIR sensor sends a HIGH signal.
 - 📟 The ESP32 reads this signal and:
@@ -58,7 +58,7 @@ This project implements a **real-time motion detection system** using an ESP32 m
 
 ---
 
-## 10. 📱 Applications:
+## 📱 Applications:
 
 - 🏠 Home and Office Security Systems
 - 💡 Automatic Lighting Control
@@ -67,7 +67,7 @@ This project implements a **real-time motion detection system** using an ESP32 m
 
 ---
 
-## 11. ✅ Conclusion:
+## ✅ Conclusion:
 
 This project demonstrates a simple yet effective way to build an IoT-enabled motion detection system using a PIR sensor and ESP32, with real-time mobile notifications through the Blynk platform.
 
